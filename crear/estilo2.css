@@ -1,0 +1,102 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: #b4b4b4;
+}
+h1
+{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(42, 90, 122);
+}
+#titulo
+{
+    background-color: #5c5c5c;
+    color: #fff;
+}
+td{
+    background-color: #fff;
+    text-align: center;
+}
+#link1
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#link2
+{
+    margin-left: 100px;
+}
+h3
+{
+    margin-left: 120px;
+    margin-top: 0px;
+}
+img.alinear
+{
+    vertical-align: middle;
+}
+.image2
+{
+    border-radius: 360px;
+    vertical-align: middle; 
+    margin-left: 90px;
+    margin-top: 0px;
+}
+.agrupar
+{
+    place-items: center ;
+    width: 450px;
+    float: left;
+}
+#table1
+{
+    width: 1000px;
+
+}
+#label
+{
+    color: #fff;
+    background-color: rgb(42, 90, 122);    
+    margin-left: 100px;
+    margin-top: 0px;
+    width: 100px;
+}
+#label:hover
+{
+    color: rgb(42, 90, 122);
+    background-color: #fff;
+
+}
+#izquierda
+{
+    width: 200px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#derecha
+{
+    float: right;
+    margin-right: 550px;
+    margin-top: 20px;
+}
+#label3
+{
+    width: 580px;
+    height: 30px;
+    background-color: rgb(54, 199, 54);
+    color: #fff;    
+    margin-left: 550px;
+    margin-top: 20px;
+}
+#label3:hover
+{
+    background-color: #fff;
+    color: rgb(54, 199, 54);
+}
